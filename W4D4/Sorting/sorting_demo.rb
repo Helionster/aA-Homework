@@ -101,3 +101,5 @@ class SortingDemo
 end
 
 SortingDemo.run_performance_tests()
+
+# Merge Sort takes roughly 0.6 seconds to run while Bubble Sort has been executing for well over 1 minute and counting.
